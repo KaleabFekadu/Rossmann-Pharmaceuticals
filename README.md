@@ -1,5 +1,1 @@
 # Rossmann-Pharmaceuticals
-
-# count
-
-#
