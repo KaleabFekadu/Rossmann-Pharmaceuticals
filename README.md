@@ -1,3 +1,1 @@
 # Rossmann-Pharmaceuticals
-
-# check
