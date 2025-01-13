@@ -1,3 +1,1 @@
 # Rossmann-Pharmaceuticals
-
-# Read Me.
